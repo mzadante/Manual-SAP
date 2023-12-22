@@ -53,6 +53,8 @@ Una empresa inteligente y sostenible es aquella que aplica tecnologías avanzada
 
 # Descubriendo la Terminología de la Nube
 
+![imagen2](asset/02-CloudComputing.png)
+
 ## **Nube (Cloud):**
    - Infraestructura y servicios disponibles a través de Internet.
 
