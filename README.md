@@ -20,7 +20,7 @@
 
 **Objetivo de la Estrategia SAP: Empresa Inteligente y Sostenible**
 
-https://github.com/mzadante/Manual-SAP/blob/main/asset/01-StrategyOverviewNew.png
+![Ejemplo de Imagen]([URL_DE_LA_IMAGEN](https://github.com/mzadante/Manual-SAP/blob/main/asset/01-StrategyOverviewNew.png))
 
 # Estrategia de SAP para Empresas Inteligentes y Sostenibles
 
