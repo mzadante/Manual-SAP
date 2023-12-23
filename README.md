@@ -306,3 +306,29 @@ Las empresas inteligentes y sostenibles deben sobresalir en todos sus procesos c
 
 - SAP BTP forma la base tecnológica de la empresa inteligente y sostenible.
 - Facilita la integración de procesos, proporciona información de calidad para la toma de decisiones y contribuye a la agilidad del negocio.
+
+### Ilustrando la arquitectura de SAP BTP 
+
+# Implementación de Aplicaciones en SAP BTP
+
+- **Regiones:**
+  - Permite la implementación en ubicaciones geográficas (por ejemplo, Europa, este de EE. UU.).
+  - La elección de la región a nivel de subcuenta es crucial y se basa en factores como el rendimiento.
+
+- **Infraestructura:**
+  - Proporcionada por SAP o socios de IaaS (AWS, Azure, GCP, Alibaba Cloud).
+
+- **Ambientes:**
+  - Plataforma de desarrollo y administración de aplicaciones en SAP BTP.
+  - Equipados con herramientas, tecnologías y tiempos de ejecución necesarios para crear aplicaciones.
+
+- **Servicios:**
+  - Facilitan el desarrollo de aplicaciones comerciales en SAP BTP.
+  - Disponibles en SAP Discovery Center.
+
+- **Datos:**
+  - Gestión a través de servicios como SAP HANA Cloud y SAP Datasphere.
+
+- **Aplicaciones:**
+  - Construidas sobre las capas subyacentes.
+  - Utilizan la infraestructura, entornos, servicios y datos disponibles.
